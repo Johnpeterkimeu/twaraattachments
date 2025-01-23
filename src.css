@@ -1,4 +1,4 @@
-div{
+/* div{
 
     display: flex;
     justify-content:center;
@@ -8,9 +8,9 @@ div{
     height: 300px;
     border : 1px;
 
-}
+} */
 
-shoe{
+.shoe{
     display: flex;
     justify-content: center;
     text-align: center;
@@ -18,4 +18,46 @@ shoe{
     height: 300px;
     margin: 20px;
     border-radius: 1px;
+
 }
+shoe1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    width:20%;
+    height: 20%;
+}
+
+.shoes{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     width: 700px;
+     height: 70px;
+
+} 
+
+
+
+
+  li
+  {display: inline;
+    justify-content: center;
+    list-style: none;
+
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-style: times new roman;
+    font: 1em sans-serif;
+
+}
+
+
+
+
+
